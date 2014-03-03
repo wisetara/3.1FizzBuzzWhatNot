@@ -12,8 +12,6 @@ def fizzbuzz(number)
     end
   end
   results_array
- # puts results_array.join("\n")
-#  puts results_array.inspect
 
 end
 
